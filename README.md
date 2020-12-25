@@ -1,2 +1,0 @@
-# fearless
-Fearless Trial Project
